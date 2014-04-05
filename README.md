@@ -1,5 +1,7 @@
 A Zelda-Sokoban mashup made around May 2009.
 
+![Screenshot](http://github.com/fmdkdd/shinkoban/raw/master/screenshot.png)
+
 # Original README
 
 Welcome to the warehouse.
