@@ -1,6 +1,6 @@
 A Zelda-Sokoban mashup made around May 2009.
 
-![Screenshot](http://github.com/fmdkdd/shinkoban/raw/master/screenshot.png)
+![Screenshot](screenshot.png)
 
 # Original README
 
